@@ -1,1 +1,6 @@
 language: go
+
+env:
+  global:
+  - secure: SFmRDMiadjTSE8Nn3ZrEfSWtKFWJhpJDPQzx0vepj4eMl6NHVaHPlqjfiyBK1doe4UXPM+gfAr5IWW3FSIxu/JtEDBePKMcIGHT8JN7TE1+XmFIjNZg9PS8NEA4ITjg4ziH1sPJpLO3Tt3bTaTPwsZo5VRXDZ9HiogU/pawo/fM=
+  - secure: hCO7Ia43wQBrDevHDm8sNrIMcM4/49nli3B8vkHLLeVM6MUd/p0J5ganc+9t07th+0ilJjR6ANVSh8Aq9RXEsTNRYai+dm+ztQikxSeyF4OxWTOiysxZncOn5f2EgSV1HbjbHFiReE6/2kGdPsAxbjVIE9tcWJ//4t6njOhL2O4=
